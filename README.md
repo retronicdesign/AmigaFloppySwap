@@ -27,3 +27,22 @@ This device will fully support external booting from any 880K disks, while still
 * Don't forget to add 2 wires between the two boards!
 
 This will feed signal MTRON and READY to and from the main circuit thus enabling the magic with internal drive!
+## Bill of material
+
+| Quantity | Designator | Manufacturer Part Number |
+|---|---|---|
+| 3	| C1,C2,C3 | 0.1uF 0805	AC0805KFX7R9BB104 |
+| 2	| J1 | HEADER3x1	61300311121 |
+| 2	| J2 | CHIP	17-2444090-5-ND |
+| 2	| J3 | SOCKET	 BHS-120-G-A |
+| 1	| J4 | HEADER34M	67997-234HLF |
+| 1	| J5 | HEADER34F	ESQ-120-34-L-D |
+| 2	| J6,J7 | HD2	0022053021 |
+| 1	| LS1 | PIEZO	CMT-1603-SMT-TR |
+| 1	| R1 | 1K 0805	CR0805-JW-102ELF |
+| 2	| R6,R7 | 2.2K 0805	 RK73H2ATTD4022F |
+| 1	| U1 | ATTINY13	ATTINY13-20SSU |
+| 1	| U2 | 74LS153	SN74LS153DR |
+| 1	| U3 | 74LS38	SN74LS38DR |
+
+
