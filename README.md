@@ -1,5 +1,6 @@
 # Amiga Floppy Swap
 An Amiga 1000-500-2000-3000 DF0: - External Floppy Drive Swapper
+![Amiga_floppy_swapper (2)](https://user-images.githubusercontent.com/18539931/231594529-4efac4ab-957f-47f0-879b-2a214407e7dc.jpg)
 
 ## Theory of operation
 This module can swap an internal DF0: drive with an external DF1: floppy drive in order to boot from an external device, such as a Gotek Floppy Emulator.
@@ -13,7 +14,7 @@ A small CPU detects two fast consecutive resets (CTRL-A-A twice). This will acti
 A piezo will emit sounds when the swapping is activated or deactivated.
 
 This device will fully support external booting from any 880K disks, while still permitting the use of internal DF0: as DF1: (hardware fix)
-![Amiga_floppy_swapper (2)](https://user-images.githubusercontent.com/18539931/231594529-4efac4ab-957f-47f0-879b-2a214407e7dc.jpg)
+
 ## Schematic
 ![image](https://user-images.githubusercontent.com/18539931/231537184-32b204a7-5ace-447a-bb3c-b94747fb4f77.png)
 ## PCB
