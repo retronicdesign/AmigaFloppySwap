@@ -22,4 +22,6 @@ This device will fully support external booting from any 880K disks, while still
 ### Internal DF0: "signal extractor" PCB
 ![image](https://user-images.githubusercontent.com/18539931/231581458-66220dfb-2083-49b2-8f01-d19089d4dd1e.png)
 ![image](https://user-images.githubusercontent.com/18539931/231581515-ed4e5da0-7c8b-4ccf-a66c-06147e8ddd4a.png)
-* Don't firget to add 2 wires between the two boards!
+* Don't forget to add 2 wires between the two boards!
+
+This will route signal MTRON and READY to the main circuit.
