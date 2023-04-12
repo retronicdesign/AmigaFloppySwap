@@ -17,8 +17,9 @@ This device will fully support external booting from any 880K disks, while still
 ![image](https://user-images.githubusercontent.com/18539931/231537184-32b204a7-5ace-447a-bb3c-b94747fb4f77.png)
 ## PCB
 ### Even CIA (MOS 8520) "sandwich" PCB
-![image](https://user-images.githubusercontent.com/18539931/231539229-0ff61863-58a4-4910-abc3-06dba2144de6.png)
-![image](https://user-images.githubusercontent.com/18539931/231539365-14722886-b94c-4aea-b1d8-c456901443dc.png)
+![image](https://user-images.githubusercontent.com/18539931/231581277-1eed8321-dfd0-4dcd-9db9-6d271217da2a.png)
+![image](https://user-images.githubusercontent.com/18539931/231581348-d27fab04-f03f-4aac-bed5-ddacad86fa6f.png)
 ### Internal DF0: "signal extractor" PCB
-![image](https://user-images.githubusercontent.com/18539931/231540679-b935bae1-7c6d-4aef-9848-f54847a5bd53.png)
-![image](https://user-images.githubusercontent.com/18539931/231540756-23a5ed65-c647-450b-b778-b3e0bd93b2e5.png)
+![image](https://user-images.githubusercontent.com/18539931/231581458-66220dfb-2083-49b2-8f01-d19089d4dd1e.png)
+![image](https://user-images.githubusercontent.com/18539931/231581515-ed4e5da0-7c8b-4ccf-a66c-06147e8ddd4a.png)
+
