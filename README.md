@@ -1,4 +1,4 @@
-# AmigaDF0ExternalDriveSwap
+# Amiga Floppy Swap
 An Amiga 1000-500-2000-3000 DF0: - External Floppy Drive Swapper
 ## Theory of operation
 This module can swap an internal DF0: drive with an external DF1: floppy drive in order to boot from an external device, such as a Gotek Floppy Emulator.
