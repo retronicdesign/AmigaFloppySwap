@@ -25,8 +25,10 @@ This device will fully support external booting from any 880K disks, while still
 ![image](https://user-images.githubusercontent.com/18539931/231581458-66220dfb-2083-49b2-8f01-d19089d4dd1e.png)
 ![image](https://user-images.githubusercontent.com/18539931/231581515-ed4e5da0-7c8b-4ccf-a66c-06147e8ddd4a.png)
 * Don't forget to add 2 wires between the two boards!
-
 This will feed signal MTRON and READY to and from the main circuit thus enabling the magic with internal drive!
+
+You can have it build at [PCBWay](https://pcbway.com/g/J4X1Dw) under my shared projects.
+
 ## Bill of material
 
 | Quantity | Designator | Manufacturer Part Number |
